@@ -289,7 +289,7 @@
           id:'12',
           name: 'أدابتر سيارات فولكس فاجن ID4و ID6',
           currency: 'AED',
-          price: 350,
+          price: 400,
           flag: 'new',
           imageSource: require('../images/product-images/GBTtoGBT.jpg'),
           imageAlt: 'ادابتر سيارات فولكس فاجن ID4و ID6',
